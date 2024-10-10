@@ -7,6 +7,8 @@ Pricing Strategies: Analysis of ADR shows the need for dynamic pricing strategie
 Occupancy vs. Ratings: Properties with lower occupancy tend to have lower customer ratings, indicating the need for improvements in service quality to enhance customer satisfaction.
 Platform Pricing: ADR across different booking platforms is inconsistent, which can lead to confusion for customers. Standardizing pricing across platforms while offering promotional deals could improve the booking experience.
 Using synthetic data, this project provides insights into critical hotel operations, including occupancy rates, revenue generation, and pricing strategies. The dashboards help identify trends and areas of improvement in business performance, particularly focusing on factors influencing revenue and customer satisfaction.
+<img width="608" alt="image" src="https://github.com/user-attachments/assets/46ad20be-45ae-4185-840b-d9f93d5fcd8c">
+
 **Tools and Technologies**
 Power BI: For data visualization and dashboard creation
 SQL: For data extraction and manipulation
@@ -18,4 +20,4 @@ Analyze customer feedback data to better understand factors driving low ratings.
 Add machine learning models to predict future occupancy rates and revenue growth.
 **Conclusion**
 This Power BI project helps Marriott Hotels in New England optimize their operations by providing actionable insights on revenue management and customer satisfaction. By analyzing key performance metrics, this project offers data-driven recommendations to improve profitability and overall hotel performance.
-[Hospitality dashboard- Marriot New England.pdf](https://github.com/user-attachments/files/17333243/Hospitality.dashboard-.Marriot.New.England.pdf)
+
